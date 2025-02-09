@@ -5,26 +5,22 @@ navigation: false
 
 ::hero
 ---
-announcement:
-  title: 'Release v0.8.14'
-  icon: '🎉'
-  to: https://github.com/ZTL-UwU/shadcn-docs-nuxt/releases/latest
-  target: _blank
+
 actions:
   - name: Documentation
     to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
     target: _blank
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: https://github.com/haithanhphan1603/intervue
     leftIcon: 'lucide:github'
 ---
 
 #title
-Welcome to shadcn-docs-nuxt
+Intervue
 
 #description
-Beautifully designed Nuxt Content template built with shadcn-vue. :br Customizable. Compatible. Open Source.
+Interview questions for Vue.js, a lightweight and enjoyable JavaScript framework.
 ::
 
 ::div{class="border rounded-lg shadow-md"}
