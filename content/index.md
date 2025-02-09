@@ -20,7 +20,7 @@ actions:
 Intervue
 
 #description
-Interview questions for Vue.js, a lightweight and enjoyable JavaScript framework.
+Interview questions and answers for Vue.js, a lightweight and enjoyable JavaScript framework.
 ::
 
 ::div{class="border rounded-lg shadow-md"}
