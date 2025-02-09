@@ -1,3 +1,5 @@
+const currentYear = new Date().getFullYear();
+
 export default defineAppConfig({
   shadcnDocs: {
     site: {
@@ -33,7 +35,7 @@ export default defineAppConfig({
       showTitle: true,
     },
     footer: {
-      credits: 'Copyright © 2024',
+      credits: `Copyright © ${currentYear}`,
       links: [{
         icon: 'lucide:github',
         to: 'https://github.com/haithanhphan1603/intervue',
