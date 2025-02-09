@@ -13,7 +13,7 @@ icon: 'lucide:info'
 - Packed with UI/component examples, code snippets, and clear explanations.
 - Mobile support
 - Indexed searching powered by Nuxt Content.
-- Made by [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt)
+- Built on [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt)
 
 ## License
 - [MIT](https://github.com/haithanhphan1603/intervue/blob/master/LICENSE)
