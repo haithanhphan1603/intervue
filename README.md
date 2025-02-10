@@ -1,49 +1,24 @@
-# shadcn-docs-nuxt Minimal Starter
+# Intervue
 
-Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
+Welcome to **InterVue**! 🚀 A fun and interactive resource to help you ace your Vue.js interviews. 
+**intervue** was created for those who are  preparing for Vue.js interviews or just looking to deepen their understanding of the framework. InterVue is also born out of my love for Vue.js. 
 
-## Setup
+## Why contribute?
 
-Make sure to install the dependencies:
+- **Help others learn:** Your contributions will help expand the collection of Vue.js interview questions, making it even more valuable for those preparing for interviews.
+- **Make learning easier:** Contribute to clear, practical code examples with explanations that make Vue.js concepts simple and easy to understand.
+- **Be part of a community:** Join a group of passionate developers who are all about improving the Vue.js ecosystem and helping others grow.
 
-```bash
-# yarn
-yarn install
+## What’s inside?
 
-# npm
-npm install
+- **Concise and to-the-point questions:** Focusing on the most important Vue.js concepts for interviews.
+- **Clear code examples:** With easy-to-follow explanations that make learning fun!
+- **UI-focused content:** Because i know how important front-end knowledge is for Vue.js developers.
 
-# pnpm
-pnpm install
+## How can you help?
 
-# bun
-bun install
-```
+- Explore our [Documentation](https://github.com/haithanhphan1603/intervue)
+- Jump into issues, suggest new questions, or improve existing content.
+- Contribute to the [GitHub repository](https://github.com/haithanhphan1603/intervue) and make this project even better!
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=ZTL-UwU/shadcn-docs-nuxt-starter)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+I’d be **very happy** if you could lend a hand in sharing Vue.js knowledge with others. It will be **so much fun** to have some teammates join me on this journey! 😊 Let’s make learning Vue.js fun and easy, together!
