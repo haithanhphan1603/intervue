@@ -8,7 +8,7 @@ navigation: false
 
 actions:
   - name: Documentation
-    to: https://shadcn-docs-nuxt.vercel.app/getting-started/introduction
+    to: /getting-started/introduction
     target: _blank
   - name: GitHub
     variant: outline
