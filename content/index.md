@@ -38,7 +38,7 @@ Interview questions and answers for Vue.js, a lightweight and enjoyable JavaScri
   ---
   title: Explore a Wide Range of Vue Questions
   icon: lucide:scroll-text
-  to: https://nuxt.com/docs/api/composables/use-app-config
+  to: /
   target: _blank
   ---
   Packed with questions covering Vue things from implementing directives and composables to building UI components and tackling frequently asked quizzes.
@@ -48,7 +48,7 @@ Interview questions and answers for Vue.js, a lightweight and enjoyable JavaScri
   ---
   title: Easy to learn
   icon: lucide:baby
-  to: https://nuxt.com/docs/api/utils/dollarfetch
+  to: /
   target: _blank
   ---
   Have "explain like i'm five" section
@@ -58,7 +58,7 @@ Interview questions and answers for Vue.js, a lightweight and enjoyable JavaScri
   ---
   title: Clear Code, Concise Explanations
   icon: lucide:square-terminal
-  to: https://nuxt.com/docs/api/commands/add
+  to: /
   target: _blank
   ---
   Includes plenty of code examples with clear, concise explanations.
